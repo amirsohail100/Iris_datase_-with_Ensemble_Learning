@@ -41,8 +41,8 @@ Follow these quick implementation steps to clone, configure, and execute the ens
 ### 1. Clone and Enter the Repository
 
 ```bash
-git clone [https://github.com/amirsohail100/my_first_ensemble-_learning_basics.git](https://github.com/amirsohail100/my_first_ensemble-_learning_basics.git)
-cd my_first_ensemble-_learning_basics
+git clone [https://github.com/amirsohail100/Iris_datase_-with_Ensemble_Learning.git](https://github.com/amirsohail100/Iris_datase_-with_Ensemble_Learning.git)
+cd Iris_datase_-with_Ensemble_Learning
 ```
 
 An optimized machine learning pipeline implementing Ensemble Learning (Voting, Bagging, Boosting) on the classic Iris Dataset to achieve high-accuracy multi-class classification.
