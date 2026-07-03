@@ -1,3 +1,12 @@
+---
+license: mit
+language: en
+tags:
+  - tabular-classification
+pipeline_tag: tabular-classification
+library_name: sklearn
+---
+
 # 🌸 Iris Flower Classification using Ensemble Learning
 
 This repository focuses on building and evaluating a high-performance machine learning pipeline on the classic **Iris Dataset** using advanced **Ensemble Learning** methodologies. The goal is to optimize multi-class classification accuracy by combining multiple base estimators.
