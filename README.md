@@ -43,6 +43,7 @@ Follow these quick implementation steps to clone, configure, and execute the ens
 ```bash
 git clone [https://github.com/amirsohail100/Iris_datase_-with_Ensemble_Learning.git](https://github.com/amirsohail100/Iris_datase_-with_Ensemble_Learning.git)
 cd Iris_datase_-with_Ensemble_Learning
+pip install -r requirements.txt
 ```
 
 An optimized machine learning pipeline implementing Ensemble Learning (Voting, Bagging, Boosting) on the classic Iris Dataset to achieve high-accuracy multi-class classification.
